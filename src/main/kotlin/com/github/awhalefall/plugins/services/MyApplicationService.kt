@@ -1,6 +1,6 @@
-package org.jetbrains.plugins.template.services
+package com.github.awhalefall.plugins.services
 
-import org.jetbrains.plugins.template.MyBundle
+import com.github.awhalefall.plugins.MyBundle
 
 class MyApplicationService {
 
